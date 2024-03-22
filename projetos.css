@@ -50,5 +50,6 @@ h1 {
   .pdf {
     width: 355px;
     height: 350px;
+    background-color: white;
   }
 }
